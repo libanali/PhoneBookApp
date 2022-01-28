@@ -1,0 +1,13 @@
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/bin/Debug/netcoreapp3.1/PhoneBookApp.deps.json
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/bin/Debug/netcoreapp3.1/PhoneBookApp.runtimeconfig.json
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/bin/Debug/netcoreapp3.1/PhoneBookApp.runtimeconfig.dev.json
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/bin/Debug/netcoreapp3.1/PhoneBookApp.dll
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/bin/Debug/netcoreapp3.1/PhoneBookApp.pdb
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.csproj.AssemblyReference.cache
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.AssemblyInfoInputs.cache
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.AssemblyInfo.cs
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.csproj.CoreCompileInputs.cache
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.dll
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.pdb
+/Users/libanali/Desktop/PhoneBookApp/PhoneBookApp/obj/Debug/netcoreapp3.1/PhoneBookApp.genruntimeconfig.cache
